@@ -38,11 +38,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Demo
 
-Check out the live demo of the application at https://3922d6df-2a0c-4af8-baf3-14ce4ee186d5-00-yg0ax8fzflqs.sisko.replit.dev/index.html
+Check out the live demo of the application at https://6d14dae0-f387-457b-8be2-14c27448607d-00-vbch5yjccjkc.sisko.replit.dev/index.html
 
 ## Authors
 
--https://github.com/Jenefa5
+-https://github.com/PRIEST676
 
 
 
